@@ -1,0 +1,16 @@
+C:\Csharp-Projects\AsaniCRUD\AsaniCRUD.Persistence\bin\Debug\netcoreapp3.1\AsaniCRUD.Domain.dll
+C:\Csharp-Projects\AsaniCRUD\AsaniCRUD.Persistence\bin\Debug\netcoreapp3.1\Framework.Domain.dll
+C:\Csharp-Projects\AsaniCRUD\AsaniCRUD.Persistence\obj\Debug\netcoreapp3.1\AsaniCRUD.Persistence.csprojAssemblyReference.cache
+C:\Csharp-Projects\AsaniCRUD\AsaniCRUD.Persistence\obj\Debug\netcoreapp3.1\AsaniCRUD.Persistence.AssemblyInfoInputs.cache
+C:\Csharp-Projects\AsaniCRUD\AsaniCRUD.Persistence\obj\Debug\netcoreapp3.1\AsaniCRUD.Persistence.AssemblyInfo.cs
+C:\Csharp-Projects\AsaniCRUD\AsaniCRUD.Persistence\bin\Debug\netcoreapp3.1\AsaniCRUD.Persistence.deps.json
+C:\Csharp-Projects\AsaniCRUD\AsaniCRUD.Persistence\bin\Debug\netcoreapp3.1\AsaniCRUD.Persistence.dll
+C:\Csharp-Projects\AsaniCRUD\AsaniCRUD.Persistence\bin\Debug\netcoreapp3.1\AsaniCRUD.Persistence.pdb
+C:\Csharp-Projects\AsaniCRUD\AsaniCRUD.Persistence\bin\Debug\netcoreapp3.1\Framework.Core.dll
+C:\Csharp-Projects\AsaniCRUD\AsaniCRUD.Persistence\bin\Debug\netcoreapp3.1\AsaniCRUD.Domain.pdb
+C:\Csharp-Projects\AsaniCRUD\AsaniCRUD.Persistence\bin\Debug\netcoreapp3.1\Framework.Core.pdb
+C:\Csharp-Projects\AsaniCRUD\AsaniCRUD.Persistence\bin\Debug\netcoreapp3.1\Framework.Domain.pdb
+C:\Csharp-Projects\AsaniCRUD\AsaniCRUD.Persistence\obj\Debug\netcoreapp3.1\AsaniCRUD.Persistence.csproj.CopyComplete
+C:\Csharp-Projects\AsaniCRUD\AsaniCRUD.Persistence\obj\Debug\netcoreapp3.1\AsaniCRUD.Persistence.dll
+C:\Csharp-Projects\AsaniCRUD\AsaniCRUD.Persistence\obj\Debug\netcoreapp3.1\AsaniCRUD.Persistence.pdb
+C:\Csharp-Projects\AsaniCRUD\AsaniCRUD.Persistence\obj\Debug\netcoreapp3.1\AsaniCRUD.Persistence.csproj.CoreCompileInputs.cache

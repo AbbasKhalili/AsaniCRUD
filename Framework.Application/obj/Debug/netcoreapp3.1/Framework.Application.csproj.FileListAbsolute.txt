@@ -1,0 +1,12 @@
+C:\Csharp-Projects\AsaniCRUD\Framework.Application\bin\Debug\netcoreapp3.1\Framework.Application.deps.json
+C:\Csharp-Projects\AsaniCRUD\Framework.Application\bin\Debug\netcoreapp3.1\Framework.Application.dll
+C:\Csharp-Projects\AsaniCRUD\Framework.Application\bin\Debug\netcoreapp3.1\Framework.Application.pdb
+C:\Csharp-Projects\AsaniCRUD\Framework.Application\bin\Debug\netcoreapp3.1\Framework.Core.dll
+C:\Csharp-Projects\AsaniCRUD\Framework.Application\bin\Debug\netcoreapp3.1\Framework.Core.pdb
+C:\Csharp-Projects\AsaniCRUD\Framework.Application\obj\Debug\netcoreapp3.1\Framework.Application.csprojAssemblyReference.cache
+C:\Csharp-Projects\AsaniCRUD\Framework.Application\obj\Debug\netcoreapp3.1\Framework.Application.csproj.CoreCompileInputs.cache
+C:\Csharp-Projects\AsaniCRUD\Framework.Application\obj\Debug\netcoreapp3.1\Framework.Application.AssemblyInfoInputs.cache
+C:\Csharp-Projects\AsaniCRUD\Framework.Application\obj\Debug\netcoreapp3.1\Framework.Application.AssemblyInfo.cs
+C:\Csharp-Projects\AsaniCRUD\Framework.Application\obj\Debug\netcoreapp3.1\Framework.Application.csproj.CopyComplete
+C:\Csharp-Projects\AsaniCRUD\Framework.Application\obj\Debug\netcoreapp3.1\Framework.Application.dll
+C:\Csharp-Projects\AsaniCRUD\Framework.Application\obj\Debug\netcoreapp3.1\Framework.Application.pdb

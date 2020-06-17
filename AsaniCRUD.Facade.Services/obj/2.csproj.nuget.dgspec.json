@@ -1,0 +1,436 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Csharp-Projects\\AsaniCRUD\\AsaniCRUD.Facade.Services\\2.csproj": {}
+  },
+  "projects": {
+    "C:\\Csharp-Projects\\AsaniCRUD\\AsaniCRUD.Application\\AsaniCRUD.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Csharp-Projects\\AsaniCRUD\\AsaniCRUD.Application\\AsaniCRUD.Application.csproj",
+        "projectName": "AsaniCRUD.Application",
+        "projectPath": "C:\\Csharp-Projects\\AsaniCRUD\\AsaniCRUD.Application\\AsaniCRUD.Application.csproj",
+        "packagesPath": "C:\\Users\\NooR\\.nuget\\packages\\",
+        "outputPath": "C:\\Csharp-Projects\\AsaniCRUD\\AsaniCRUD.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\NooR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Csharp-Projects\\local-nuget": {},
+          "C:\\Program Files (x86)\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Csharp-Projects\\AsaniCRUD\\AsaniCRUD.Domain\\AsaniCRUD.Domain.csproj": {
+                "projectPath": "C:\\Csharp-Projects\\AsaniCRUD\\AsaniCRUD.Domain\\AsaniCRUD.Domain.csproj"
+              },
+              "C:\\Csharp-Projects\\AsaniCRUD\\Framework.Application\\Framework.Application.csproj": {
+                "projectPath": "C:\\Csharp-Projects\\AsaniCRUD\\Framework.Application\\Framework.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Csharp-Projects\\AsaniCRUD\\AsaniCRUD.Domain\\AsaniCRUD.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Csharp-Projects\\AsaniCRUD\\AsaniCRUD.Domain\\AsaniCRUD.Domain.csproj",
+        "projectName": "AsaniCRUD.Domain",
+        "projectPath": "C:\\Csharp-Projects\\AsaniCRUD\\AsaniCRUD.Domain\\AsaniCRUD.Domain.csproj",
+        "packagesPath": "C:\\Users\\NooR\\.nuget\\packages\\",
+        "outputPath": "C:\\Csharp-Projects\\AsaniCRUD\\AsaniCRUD.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\NooR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Csharp-Projects\\local-nuget": {},
+          "C:\\Program Files (x86)\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Csharp-Projects\\AsaniCRUD\\Framework.Domain\\Framework.Domain.csproj": {
+                "projectPath": "C:\\Csharp-Projects\\AsaniCRUD\\Framework.Domain\\Framework.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Csharp-Projects\\AsaniCRUD\\AsaniCRUD.Facade.Contract\\AsaniCRUD.Facade.Contract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Csharp-Projects\\AsaniCRUD\\AsaniCRUD.Facade.Contract\\AsaniCRUD.Facade.Contract.csproj",
+        "projectName": "AsaniCRUD.Facade.Contract",
+        "projectPath": "C:\\Csharp-Projects\\AsaniCRUD\\AsaniCRUD.Facade.Contract\\AsaniCRUD.Facade.Contract.csproj",
+        "packagesPath": "C:\\Users\\NooR\\.nuget\\packages\\",
+        "outputPath": "C:\\Csharp-Projects\\AsaniCRUD\\AsaniCRUD.Facade.Contract\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\NooR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Csharp-Projects\\local-nuget": {},
+          "C:\\Program Files (x86)\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Csharp-Projects\\AsaniCRUD\\Framework.Core\\Framework.Core.csproj": {
+                "projectPath": "C:\\Csharp-Projects\\AsaniCRUD\\Framework.Core\\Framework.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Csharp-Projects\\AsaniCRUD\\AsaniCRUD.Facade.Services\\2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Csharp-Projects\\AsaniCRUD\\AsaniCRUD.Facade.Services\\2.csproj",
+        "projectName": "2",
+        "projectPath": "C:\\Csharp-Projects\\AsaniCRUD\\AsaniCRUD.Facade.Services\\2.csproj",
+        "packagesPath": "C:\\Users\\NooR\\.nuget\\packages\\",
+        "outputPath": "C:\\Csharp-Projects\\AsaniCRUD\\AsaniCRUD.Facade.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\NooR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Csharp-Projects\\local-nuget": {},
+          "C:\\Program Files (x86)\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Csharp-Projects\\AsaniCRUD\\AsaniCRUD.Application\\AsaniCRUD.Application.csproj": {
+                "projectPath": "C:\\Csharp-Projects\\AsaniCRUD\\AsaniCRUD.Application\\AsaniCRUD.Application.csproj"
+              },
+              "C:\\Csharp-Projects\\AsaniCRUD\\AsaniCRUD.Facade.Contract\\AsaniCRUD.Facade.Contract.csproj": {
+                "projectPath": "C:\\Csharp-Projects\\AsaniCRUD\\AsaniCRUD.Facade.Contract\\AsaniCRUD.Facade.Contract.csproj"
+              },
+              "C:\\Csharp-Projects\\AsaniCRUD\\Framework.Application\\Framework.Application.csproj": {
+                "projectPath": "C:\\Csharp-Projects\\AsaniCRUD\\Framework.Application\\Framework.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Csharp-Projects\\AsaniCRUD\\Framework.Application\\Framework.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Csharp-Projects\\AsaniCRUD\\Framework.Application\\Framework.Application.csproj",
+        "projectName": "Framework.Application",
+        "projectPath": "C:\\Csharp-Projects\\AsaniCRUD\\Framework.Application\\Framework.Application.csproj",
+        "packagesPath": "C:\\Users\\NooR\\.nuget\\packages\\",
+        "outputPath": "C:\\Csharp-Projects\\AsaniCRUD\\Framework.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\NooR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Csharp-Projects\\local-nuget": {},
+          "C:\\Program Files (x86)\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Csharp-Projects\\AsaniCRUD\\Framework.Core\\Framework.Core.csproj": {
+                "projectPath": "C:\\Csharp-Projects\\AsaniCRUD\\Framework.Core\\Framework.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Csharp-Projects\\AsaniCRUD\\Framework.Core\\Framework.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Csharp-Projects\\AsaniCRUD\\Framework.Core\\Framework.Core.csproj",
+        "projectName": "Framework.Core",
+        "projectPath": "C:\\Csharp-Projects\\AsaniCRUD\\Framework.Core\\Framework.Core.csproj",
+        "packagesPath": "C:\\Users\\NooR\\.nuget\\packages\\",
+        "outputPath": "C:\\Csharp-Projects\\AsaniCRUD\\Framework.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\NooR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Csharp-Projects\\local-nuget": {},
+          "C:\\Program Files (x86)\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Csharp-Projects\\AsaniCRUD\\Framework.Domain\\Framework.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Csharp-Projects\\AsaniCRUD\\Framework.Domain\\Framework.Domain.csproj",
+        "projectName": "Framework.Domain",
+        "projectPath": "C:\\Csharp-Projects\\AsaniCRUD\\Framework.Domain\\Framework.Domain.csproj",
+        "packagesPath": "C:\\Users\\NooR\\.nuget\\packages\\",
+        "outputPath": "C:\\Csharp-Projects\\AsaniCRUD\\Framework.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\NooR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Csharp-Projects\\local-nuget": {},
+          "C:\\Program Files (x86)\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

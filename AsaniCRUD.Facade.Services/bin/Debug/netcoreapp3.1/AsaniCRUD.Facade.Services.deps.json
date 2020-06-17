@@ -1,0 +1,101 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AsaniCRUD.Facade.Services/1.0.0": {
+        "dependencies": {
+          "AsaniCRUD.Application": "1.0.0",
+          "AsaniCRUD.Facade.Contract": "1.0.0",
+          "Framework.Application": "1.0.0"
+        },
+        "runtime": {
+          "AsaniCRUD.Facade.Services.dll": {}
+        }
+      },
+      "AsaniCRUD.Application/1.0.0": {
+        "dependencies": {
+          "AsaniCRUD.Domain": "1.0.0",
+          "Framework.Application": "1.0.0"
+        },
+        "runtime": {
+          "AsaniCRUD.Application.dll": {}
+        }
+      },
+      "AsaniCRUD.Domain/1.0.0": {
+        "dependencies": {
+          "Framework.Domain": "1.0.0"
+        },
+        "runtime": {
+          "AsaniCRUD.Domain.dll": {}
+        }
+      },
+      "AsaniCRUD.Facade.Contract/1.0.0": {
+        "dependencies": {
+          "Framework.Core": "1.0.0"
+        },
+        "runtime": {
+          "AsaniCRUD.Facade.Contract.dll": {}
+        }
+      },
+      "Framework.Application/1.0.0": {
+        "dependencies": {
+          "Framework.Core": "1.0.0"
+        },
+        "runtime": {
+          "Framework.Application.dll": {}
+        }
+      },
+      "Framework.Core/1.0.0": {
+        "runtime": {
+          "Framework.Core.dll": {}
+        }
+      },
+      "Framework.Domain/1.0.0": {
+        "runtime": {
+          "Framework.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AsaniCRUD.Facade.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AsaniCRUD.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AsaniCRUD.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AsaniCRUD.Facade.Contract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Framework.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Framework.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Framework.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

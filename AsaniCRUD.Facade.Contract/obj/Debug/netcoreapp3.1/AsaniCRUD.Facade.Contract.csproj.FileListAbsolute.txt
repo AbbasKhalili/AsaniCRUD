@@ -1,0 +1,12 @@
+C:\Csharp-Projects\AsaniCRUD\AsaniCRUD.Facade.Contract\bin\Debug\netcoreapp3.1\AsaniCRUD.Facade.Contract.deps.json
+C:\Csharp-Projects\AsaniCRUD\AsaniCRUD.Facade.Contract\bin\Debug\netcoreapp3.1\AsaniCRUD.Facade.Contract.dll
+C:\Csharp-Projects\AsaniCRUD\AsaniCRUD.Facade.Contract\bin\Debug\netcoreapp3.1\AsaniCRUD.Facade.Contract.pdb
+C:\Csharp-Projects\AsaniCRUD\AsaniCRUD.Facade.Contract\bin\Debug\netcoreapp3.1\Framework.Core.dll
+C:\Csharp-Projects\AsaniCRUD\AsaniCRUD.Facade.Contract\bin\Debug\netcoreapp3.1\Framework.Core.pdb
+C:\Csharp-Projects\AsaniCRUD\AsaniCRUD.Facade.Contract\obj\Debug\netcoreapp3.1\AsaniCRUD.Facade.Contract.csprojAssemblyReference.cache
+C:\Csharp-Projects\AsaniCRUD\AsaniCRUD.Facade.Contract\obj\Debug\netcoreapp3.1\AsaniCRUD.Facade.Contract.csproj.CoreCompileInputs.cache
+C:\Csharp-Projects\AsaniCRUD\AsaniCRUD.Facade.Contract\obj\Debug\netcoreapp3.1\AsaniCRUD.Facade.Contract.AssemblyInfoInputs.cache
+C:\Csharp-Projects\AsaniCRUD\AsaniCRUD.Facade.Contract\obj\Debug\netcoreapp3.1\AsaniCRUD.Facade.Contract.AssemblyInfo.cs
+C:\Csharp-Projects\AsaniCRUD\AsaniCRUD.Facade.Contract\obj\Debug\netcoreapp3.1\AsaniCRUD.Facade.Contract.csproj.CopyComplete
+C:\Csharp-Projects\AsaniCRUD\AsaniCRUD.Facade.Contract\obj\Debug\netcoreapp3.1\AsaniCRUD.Facade.Contract.dll
+C:\Csharp-Projects\AsaniCRUD\AsaniCRUD.Facade.Contract\obj\Debug\netcoreapp3.1\AsaniCRUD.Facade.Contract.pdb

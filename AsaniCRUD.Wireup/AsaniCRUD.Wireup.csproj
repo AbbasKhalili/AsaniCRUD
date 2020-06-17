@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac" Version="5.2.0" />
+    <PackageReference Include="Autofac.Extras.DynamicProxy" Version="5.0.0" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AsaniCRUD.Application\AsaniCRUD.Application.csproj" />
+    <ProjectReference Include="..\AsaniCRUD.Facade.Contract\AsaniCRUD.Facade.Contract.csproj" />
+    <ProjectReference Include="..\AsaniCRUD.Facade.Query\AsaniCRUD.Facade.Query.csproj" />
+    <ProjectReference Include="..\AsaniCRUD.Facade.Services\AsaniCRUD.Facade.Services.csproj" />
+    <ProjectReference Include="..\AsaniCRUD.Persistence\AsaniCRUD.Persistence.csproj" />
+    <ProjectReference Include="..\AsaniCRUD.ReadModel\AsaniCRUD.ReadModel.csproj" />
+    <ProjectReference Include="..\Framework.Autofac\Framework.Autofac.csproj" />
+  </ItemGroup>
+
+</Project>
