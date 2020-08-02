@@ -1,5 +1,6 @@
 # AsaniCRUD
 
+# Estates table
 CREATE TABLE [dbo].[Estates](
 	[Id] [bigint] NOT NULL,
 	[Name] [nvarchar](50) NOT NULL,
@@ -14,6 +15,7 @@ CREATE TABLE [dbo].[Estates](
 ) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
 GO
 
+# Owners table
 CREATE TABLE [dbo].[Owners](
 	[Id] [bigint] NOT NULL,
 	[Name] [nvarchar](50) NOT NULL,
@@ -26,7 +28,7 @@ CREATE TABLE [dbo].[Owners](
 ) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
 GO
 
-
+# Estate Sequence
 CREATE SEQUENCE [dbo].[EstateSeq] 
  AS [bigint]
  START WITH 1
@@ -36,6 +38,7 @@ CREATE SEQUENCE [dbo].[EstateSeq]
  CACHE 
 GO
 
+# Owner Sequence
 CREATE SEQUENCE [dbo].[OwnerSeq] 
  AS [bigint]
  START WITH 1
