@@ -1,9 +1,0 @@
-C:\Csharp-Projects\AsaniCRUD\Framework.Domain\bin\Debug\netcoreapp3.1\Framework.Domain.deps.json
-C:\Csharp-Projects\AsaniCRUD\Framework.Domain\bin\Debug\netcoreapp3.1\Framework.Domain.dll
-C:\Csharp-Projects\AsaniCRUD\Framework.Domain\bin\Debug\netcoreapp3.1\Framework.Domain.pdb
-C:\Csharp-Projects\AsaniCRUD\Framework.Domain\obj\Debug\netcoreapp3.1\Framework.Domain.csproj.CoreCompileInputs.cache
-C:\Csharp-Projects\AsaniCRUD\Framework.Domain\obj\Debug\netcoreapp3.1\Framework.Domain.AssemblyInfoInputs.cache
-C:\Csharp-Projects\AsaniCRUD\Framework.Domain\obj\Debug\netcoreapp3.1\Framework.Domain.AssemblyInfo.cs
-C:\Csharp-Projects\AsaniCRUD\Framework.Domain\obj\Debug\netcoreapp3.1\Framework.Domain.dll
-C:\Csharp-Projects\AsaniCRUD\Framework.Domain\obj\Debug\netcoreapp3.1\Framework.Domain.pdb
-C:\Csharp-Projects\AsaniCRUD\Framework.Domain\obj\Debug\netcoreapp3.1\Framework.Domain.csprojAssemblyReference.cache
