@@ -264,3 +264,5 @@ Build/tools/*
 !Build/tools/packages.config
 !Build/tools/packages.config.md5sum
 *.ncrunchproject
+*.ncrunchsolution.user
+*.ncrunchsolution
