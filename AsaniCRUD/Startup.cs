@@ -35,7 +35,7 @@ namespace AsaniCRUD
                 .SingleInstance();
 
             builder.RegisterModule(new AsaniModule(hostConfig.DBConnection));
-            //ArmedServiceLocator.Assign(builder.Build());
+            ////ArmedServiceLocator.Assign(builder.Build());
         }
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
